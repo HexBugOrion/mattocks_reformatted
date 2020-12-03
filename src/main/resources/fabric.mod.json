@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "modid",
+  "version": "${version}",
+
+  "name": "Mattocks 2",
+  "description": "Redone version of the (now broken) Mattocks mod, credit for mod support goes to Doomful",
+  "authors": [
+    "OrionHexDev"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "GNU GPL 3",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.oriondev.mattocks2.Mattocks2"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.4"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

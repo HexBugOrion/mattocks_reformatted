@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "mattocks:netherite_mattock"
+    },
+    "addition": {
+        "item": "byg:pendorite_scraps"
+    },
+    "result": {
+        "item": "mattocks2:pendorite_mattock"
+    }
+}

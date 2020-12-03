@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " /#",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "mattocks2:wooden_mattock",
+        "count": 1
+    },
+    "group": "wooden_mattock"
+}

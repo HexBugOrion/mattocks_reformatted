@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mattocks2:pendorite_mattock",
+    "mattocks2:enderite_mattock",
+    "mattocks2:diamond_mattock",
+    "mattocks2:iron_mattock",
+    "mattocks2:stone_mattock",
+    "mattocks2:wooden_mattock",
+    "mattocks2:golden_mattock"
+  ]
+}
