@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "mattocks:netherite_mattock"
+    "item": "mattocks2:netherite_mattock"
   },
   "addition": {
     "item": "enderitemod:enderite_ingot"
